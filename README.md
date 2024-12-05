@@ -1,4 +1,4 @@
-# Layoffs Data Cleaning and Exploratory Analysis
+# Layoff Trends Analysis and Data Cleaning Using SQL
 
 ## Problem Statement
 📉 This project focuses on analyzing layoff data to identify trends, key industries affected, and patterns over time. The cleaned and structured data allows stakeholders to gain actionable insights into workforce trends, enabling better decision-making in managing layoffs and planning workforce strategies.
