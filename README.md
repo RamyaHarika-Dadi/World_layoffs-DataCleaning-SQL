@@ -5,7 +5,7 @@
 
 ## Dataset
 
-- 📁 **Source**: layoffs.csv
+- 📁 **Source**: [**`layoffs.csv`**](https://github.com/RamyaHarika-Dadi/World_layoffs-DataCleaning-SQL/blob/main/layoffs.csv)
 - **Key Attributes**: company, industry, location, total_laid_off, date(Date of the Layoff)  
 
 
@@ -54,13 +54,13 @@
 
 ## Final Outcome
 By cleaning and analyzing the data:
-- **Improved Data Quality**: The dataset was cleaned and standardized for accurate analysis.
-- **Industry Insights**: Key sectors and regions were identified, providing actionable insights for workforce management.
-- **Trend Analysis**: Layoff trends were analyzed over time, revealing valuable patterns.
+- ✅ **Improved Data Quality**: The dataset was cleaned and standardized for accurate analysis.
+- 📈 **Industry Insights**: Key sectors and regions were identified, providing actionable insights for workforce management.
+- 📊 **Trend Analysis**: Layoff trends were analyzed over time, revealing valuable patterns.
 
 
 ## Future Work
-- Build a dynamic dashboard using Power BI or Tableau to visualize insights.
+🚀 Build a dynamic dashboard using Power BI or Tableau to visualize insights.
 
 
 
